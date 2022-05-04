@@ -24,9 +24,9 @@
 ## Stats :dizzy:
 
 <a href="https://github.com/NoFish-528/NoFish-528">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoFish-528&langs_count=10&layout=compact&exclude_repo=NoFish-528.github.io" alt="NoFish-528's GitHub Stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoFish-528&langs_count=10&layout=compact&exclude_repo=NoFish-528.github.io&theme=swift" alt="NoFish-528's GitHub Stats" /></a>
 
 
 <a href="https://github.com/NoFish-528">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoFish-528&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8" alt="NoFish-528's GitHub Stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoFish-528&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&theme=swift" alt="NoFish-528's GitHub Stats" /></a>
 
