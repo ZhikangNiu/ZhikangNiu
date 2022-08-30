@@ -23,10 +23,9 @@
 
 ## Stats :dizzy:
 
-<a href="https://github.com/NoFish-528/NoFish-528">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoFish-528&langs_count=10&layout=compact&exclude_repo=NoFish-528.github.io&theme=swift" alt="NoFish-528's GitHub Stats" /></a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NoFish-528&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&theme=swift" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoFish-528" />
+</p>
 
-
-<a href="https://github.com/NoFish-528">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoFish-528&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&theme=swift" alt="NoFish-528's GitHub Stats" /></a>
 
