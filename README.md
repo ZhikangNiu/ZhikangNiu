@@ -15,7 +15,7 @@
  
 ## Skill & Interest :volcano:
 
-- Languages：C++(learning), Python, PyTorch, LaTeX, Markdown
+- Languages：Python, PyTorch, LaTeX, Markdown
 - Interested in **ML, DL, CV, Reading** 
 
 ## Open Source Experience :four_leaf_clover:
