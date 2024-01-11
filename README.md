@@ -2,13 +2,13 @@
 
 - 🔭I'm Zhikang Niu, an undergraduate student in Xidian University, School of Artificial Intelligence, majoring in Artificial Intelligence.
 - 📫 Do not hesitate to contact me if you have any things or questions want to discuss. 
-- Homepage: https://nofish-528.github.io/
+- Homepage: https://zhikangniu.github.io/
 - Email: zkniu@stu.xidian.edu.cn / nzk020109@gmail.com
 
 ## Open Source Experience :four_leaf_clover:
 - [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch): A chinese PyTorch tutorial.
 - [faster-git](https://github.com/datawhalechina/faster-git): A chinese Git tutorial.
-- [encodec-pytorch](https://github.com/NoFish-528/encodec-pytorch): An unofficial implementation of the High Fidelity Neural Audio Compression
+- [encodec-pytorch](https://github.com/ZhikangNiu/encodec-pytorch): An unofficial implementation of the High Fidelity Neural Audio Compression
 
 
 ## Stats :dizzy:
