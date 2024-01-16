@@ -2,7 +2,7 @@
 
 - 🔭I'm Zhikang Niu, an undergraduate student in Xidian University, School of Artificial Intelligence, majoring in Artificial Intelligence.
 - 📫 Do not hesitate to contact me if you have any things or questions want to discuss. 
-- Homepage: https://zhikangniu.github.io/
+- [[Homepage](https://zhikangniu.github.io/)]  | [[zhihu](https://www.zhihu.com/people/obeah-82)]
 - Email: zkniu@stu.xidian.edu.cn / nzk020109@gmail.com
 
 ## Open Source Experience :four_leaf_clover:
