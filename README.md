@@ -1,9 +1,9 @@
 ## About ME 👋
 
-- 🔭I'm Zhikang Niu, an undergraduate student in Xidian University, School of Artificial Intelligence, majoring in Artificial Intelligence.
-- 📫 Do not hesitate to contact me if you have any things or questions want to discuss. 
-- [[Homepage](https://zhikangniu.github.io/)]  | [[zhihu](https://www.zhihu.com/people/obeah-82)]
-- Email: zkniu@stu.xidian.edu.cn / nzk020109@gmail.com
+- 🔭I'm Zhikang Niu, an undergraduate student in [Xidian University](https://www.xidian.edu.cn/), [School of Artificial Intelligence](https://sai.xidian.edu.cn/), majoring in Artificial Intelligence.
+- And I am a incoming Ph.D. student, [Cross Media (X-)Language Intelligence Lab](https://github.com/X-LANCE), [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+- 📫How to reach me: [Email](mailto:zkniu@stu.xidian.edu.cn) | [Gmail](nzk020109@gmail.com) | [Homepage](https://zhikangniu.github.io/) | [Zhihu](https://www.zhihu.com/people/obeah-82)
+  > Do not hesitate to contact me if you have any things or questions want to discuss. 
 
 ## Open Source Experience :four_leaf_clover:
 - [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch): A chinese PyTorch tutorial.
